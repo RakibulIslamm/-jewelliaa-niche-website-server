@@ -74,6 +74,9 @@ const run = async () => {
                 isAdmin = false;
             }
         }
+        else {
+            res.json('user not found')
+        }
         // console.log(isAdmin);
         res.json({ admin: isAdmin });
     })
