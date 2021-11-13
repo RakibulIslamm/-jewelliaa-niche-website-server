@@ -18,4 +18,4 @@ In server side I used node mongodb.
 
 
 ## Technology used
-* I used ``node express`, `cors`, `mongodb`, `dotenv`, `Heroku`
+* I used `node` `express`, `cors`, `mongodb`, `dotenv`, `Heroku`
