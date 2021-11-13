@@ -1,6 +1,6 @@
 # JEWELLIAA
 
-Jewelliaa live link [Visit](https://travelzen-5b237.web.app/).
+Jewelliaa live link [Visit](https://jewelliaa.web.app/).
 
 ## This is server side of the Jewelliaa Website
 
